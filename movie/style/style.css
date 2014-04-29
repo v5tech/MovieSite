@@ -1,0 +1,38 @@
+.bordered_table{
+width:100%;
+border-collapse:collapse;
+border-color:#999999;
+border-style:solid;
+border-width:1px 1px 1px 1px;
+}
+.table_title{
+ text-weight:bold;
+ align:center;
+}
+.movie_table{
+width:95%;
+border-collapse:collapse;
+border-color:#999999;
+border-style:solid;
+border-width:1px 1px 1px 1px;
+}
+.items{
+padding-left:20px;
+}
+.login{
+	
+}
+.dashed_x {
+background:transparent url(../images/dashed.gif) repeat-x scroll 0 0;
+font-size:0;
+height:1px;
+line-height:1px;
+}
+.dashed_y {
+background:transparent url(../images/dashed.gif) repeat-y scroll 0 0;
+font-size:0;
+width:1px;
+}
+.odd_row{
+background_color: grey;
+}
