@@ -4,7 +4,7 @@
 
 ```
 <Context path="MovieSite" docBase="D:\developer\eclipsework\MovieSite\movie" reloadable="true" >
-      <Resource name="jdbc/movie"
+    <Resource name="jdbc/movie"
 		auth="Container"
 		type="javax.sql.DataSource"
 		factory="org.apache.tomcat.jdbc.pool.DataSourceFactory"
